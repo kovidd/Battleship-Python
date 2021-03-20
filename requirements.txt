@@ -1,0 +1,3 @@
+# pip freeze > requirements.txt
+
+# All requirements are met in standard library module (Python 3.7)
