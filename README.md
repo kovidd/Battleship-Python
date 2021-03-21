@@ -1,6 +1,3 @@
-# Battleship-Python
-Battleship game using OO Python
-
 # Battleship Game Simulator
 
 Back end of the battleship simulator
