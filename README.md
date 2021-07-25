@@ -56,4 +56,4 @@ Player has lost!
 ## Authors
 |Name | Email|
 | --- | ---- |
-| Kovid Sharma | kovid5293@gmail.com | 
+| Kovid Sharma | NA | 
